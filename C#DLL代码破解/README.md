@@ -28,7 +28,7 @@
 
 -找到.il存放的文件夹
 
--Shift + T + 鼠标右键
+-Shift + 鼠标右键
 
 -点击 在此打开PowerShell窗口
 
